@@ -1,0 +1,2 @@
+# inar-github
+yazılım mazılım
